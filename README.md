@@ -1,3 +1,8 @@
+This Project Is No Longer Maintained
+====================================
+
+Geonames is no longer maintained. Your mileage with patches may vary.
+
 geonames
 ========
 
